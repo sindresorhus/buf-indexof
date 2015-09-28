@@ -1,6 +1,6 @@
 # buf-indexof [![Build Status](https://travis-ci.org/sindresorhus/buf-indexof.svg?branch=master)](https://travis-ci.org/sindresorhus/buf-indexof)
 
-> io.js 1.5.0 (Node.js) [`buffer.indexOf()`](https://iojs.org/api/buffer.html#buffer_buf_indexof_value_byteoffset) ponyfill
+> Node.js 4.0 [`buffer.indexOf()`](https://iojs.org/api/buffer.html#buffer_buf_indexof_value_byteoffset) ponyfill
 
 > Ponyfill: A polyfill that doesn't overwrite the native method
 
