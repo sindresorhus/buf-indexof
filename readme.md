@@ -1,8 +1,6 @@
 # buf-indexof [![Build Status](https://travis-ci.org/sindresorhus/buf-indexof.svg?branch=master)](https://travis-ci.org/sindresorhus/buf-indexof)
 
-> Node.js 4.0 [`buffer.indexOf()`](https://iojs.org/api/buffer.html#buffer_buf_indexof_value_byteoffset) ponyfill
-
-> Ponyfill: A polyfill that doesn't overwrite the native method
+> Node.js [`buffer.indexOf()`](https://iojs.org/api/buffer.html#buffer_buf_indexof_value_byteoffset) [ponyfill](https://ponyfill.com)
 
 
 ## Install
@@ -31,8 +29,8 @@ The only difference is that you pass in the buffer as the first argument instead
 
 ## Related
 
-- [buffer-equals](https://github.com/sindresorhus/buffer-equals) - Node.js 0.12 `buffer.equals()` ponyfill
-- [buf-compare](https://github.com/sindresorhus/buf-compare) - Node.js 0.12 `Buffer.compare()` ponyfill
+- [buffer-equals](https://github.com/sindresorhus/buffer-equals) - Node.js `buffer.equals()` ponyfill
+- [buf-compare](https://github.com/sindresorhus/buf-compare) - Node.js `Buffer.compare()` ponyfill
 
 
 ## License
