@@ -1,6 +1,6 @@
 {
   "name": "buf-indexof",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Node.js `buffer.indexOf()` ponyfill",
   "license": "MIT",
   "repository": "sindresorhus/buf-indexof",
