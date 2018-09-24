@@ -1,6 +1,12 @@
+# Deprecated
+
+Just use [`Buffer#indexOf()`](https://nodejs.org/api/buffer.html#buffer_buf_indexof_value_byteoffset_encoding). It has been available since Node.js 4.
+
+---
+
 # buf-indexof [![Build Status](https://travis-ci.org/sindresorhus/buf-indexof.svg?branch=master)](https://travis-ci.org/sindresorhus/buf-indexof)
 
-> Node.js [`buffer.indexOf()`](https://iojs.org/api/buffer.html#buffer_buf_indexof_value_byteoffset) [ponyfill](https://ponyfill.com)
+> Node.js [`Buffer#indexOf()`](https://nodejs.org/api/buffer.html#buffer_buf_indexof_value_byteoffset_encoding) [ponyfill](https://ponyfill.com)
 
 
 ## Install
